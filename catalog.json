@@ -1,0 +1,35 @@
+[{"title":"Empire Burlesque",
+   "artist":"Bob Dylan",
+   "country":"USA",
+   "company" : "Columbia",
+   "price": 10.90,
+   "year": 2000},
+   
+   {"title":"Greatest Hits",
+   "artist":"Dolly Parton",
+   "country":"USA",
+   "company" : "Columbia",
+   "price": 12,
+   "year": 2010},
+   
+   {"title":"Still got the blues",
+   "artist":"Gary Moore",
+   "country":"UK",
+   "company" : "Columbia",
+   "price": 10.20,
+   "year": 2003},
+   
+   {"title":"Eros",
+   "artist":"Eros Ramazzotti",
+    "country":"EU",
+   "company" : "BMG",
+   "price": 9.90,
+   "year": 2005},
+   
+   {"title":"Hide your heart",
+   "artist":"Bonnie Tyler",
+   "country":"UK",
+   "company" : "Columbia",
+   "price": 9.90,
+   "year": 2005}
+]
